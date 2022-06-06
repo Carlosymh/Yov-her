@@ -4,7 +4,7 @@
 
 <p><i>Hola!, Soy Carlos Yovani Desarrollador Backend con Python y PHP</i></p>
 <ul>
-<li> 🌱 <b>Actualmente estoy aprendiendo</b> : <code>Desarrollo de aplicacions Androind</code>,<code>Programacion con Java</code>,<code>Programacion con Golang</code>, <code>Desarrollo Full Stack </code></li>
+<li> 🌱 <b>Actualmente estoy aprendiendo</b> : <code>Androind Developer</code>,<code>Java Developer</code>,<code>Go Developer</code>, <code>Full Stack Developer</code></li>
 <li> 💬 <b>Preguntame sobre</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code>, <code>PHP</code>, <code>MySql</code></li>
 <li> 📫 <b>Como Contactarme</b> : <code><a href="https://www.linkedin.com/in/carlos-yovani-munoz-hernandez/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yovher.000webhostapp.com/">yovher.000webhostapp.com/</a></code></li>
