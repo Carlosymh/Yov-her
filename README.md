@@ -2,10 +2,10 @@
 <img src="https://imgur.com/Z9n1y5S.gif" height=47% width=47% align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yov-her" alt="Yov-her" /> </p>
 
-<p><i>Hola!, Soy Carlos Yovani Desarrollador Backend con Python y PHP</i></p>
+<p><i>Hola!, Soy Carlos Yovani Desarrollador Backend con Python y Node.js</i></p>
 <ul>
 <li> 🌱 <b>Actualmente estoy aprendiendo</b> : <code>Androind</code>,<code>Java</code>,<code>Go</code>
-<li> 💬 <b>Preguntame sobre</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code>, <code>PHP</code>, <code>MySql</code><code>Mongo DB</code><code>NODE.JS</code><code>AngularJS</code></li>
+<li> 💬 <b>Preguntame sobre</b> : <code>Web Development</code>, <code>Git/Github</code>, <code>Python</code>, <code>MySql</code><code>Mongo DB</code><code>NODE.JS</code><code>AngularJS</code></li>
 <li> 📫 <b>Como Contactarme</b> : <code><a href="https://www.linkedin.com/in/carlos-yovani-munoz-hernandez/">LinkedIn</a></code></li>
 <li> 👩‍💻 <b>Portfolio</b> : <code><a href="https://yovher.000webhostapp.com/">yovher.000webhostapp.com/</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>His</code>/<code>Him</code></li>
